@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarwaNair. I’m a CS student at ESI Algiers.
+- 👋 Hi, I’m @MarwaNair, a CS student at ESI Algiers.
 
 <!---
 MarwaNair/MarwaNair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
