@@ -6,6 +6,6 @@
 ## Current level
 
 - <h4> I develop software and Machine Learning solutions.</h4>
-- <h4> I bring 3 years of technical expertise to the table.</h4>
+- <h4> I have 3 years of technical experience.</h4>
 
 
